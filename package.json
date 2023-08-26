@@ -1,0 +1,18 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "Scss Enrollment page",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.66.1"
+  },
+  "scripts": {
+    "scss": "gulp sass"
+  },
+  "author": "ilove2support.tech",
+  "license": "ISC"
+}
